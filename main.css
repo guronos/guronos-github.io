@@ -68,6 +68,7 @@ section {
   /*margin: 10px;*/
   width: 330px;
   color: #08151a;
+  background: linear-gradient(rgb(67, 82, 74), rgb(68, 109, 82));
 }
 aside{
   position:absolute;
